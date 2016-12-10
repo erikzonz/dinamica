@@ -1,1 +1,2 @@
 # dinamica
+"# dinamica" 
